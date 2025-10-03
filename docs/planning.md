@@ -17,7 +17,7 @@
 
 ## MoSCoW Prioritization
 
-- Must have : User auth, book listing, cart, order, admin book management
+- Must have : User auth, book listing, Cart, order, admin book management
 - Should-have: Search, admin dashboard orders.
 - Could-have: Book reviews, filters
 - Won’t-have: Real Payment, user avatars.
@@ -36,3 +36,7 @@
 4. Sprint 4: Testing(unit, integration, E2E tests)
 5. Sprint 5: Deployment(Launch on vercel).
 6. Sprint 6: Maintenance(bug fixes, enhancements).
+
+## Trello Board
+
+Created a Trello board with user stories for Book Haven. Lists: To-Do, In Progress, Done. Cards include User Registration, Browse Books, etc., with MoSCoW labels (Must, Should, Could, Won’t).
